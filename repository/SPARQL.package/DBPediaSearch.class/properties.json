@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "HernanMoralesDurand 3/1/2014 20:02",
+	"super" : "SPARQLSearch",
+	"category" : "SPARQL-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DBPediaSearch",
+	"type" : "normal"
+}
