@@ -1,0 +1,1 @@
+Superclass for SPARQL remote endpoints

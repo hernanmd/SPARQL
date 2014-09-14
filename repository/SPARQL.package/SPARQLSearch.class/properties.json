@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "HernanMoralesDurand 9/14/2014 13:21",
+	"super" : "Object",
+	"category" : "SPARQL-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"queryStream"
+	],
+	"name" : "SPARQLSearch",
+	"type" : "normal"
+}
