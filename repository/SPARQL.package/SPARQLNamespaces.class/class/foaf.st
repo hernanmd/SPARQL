@@ -1,0 +1,4 @@
+namespaces
+foaf
+
+	^ 'PREFIX foaf: <http://xmlns.com/foaf/0.1/>'

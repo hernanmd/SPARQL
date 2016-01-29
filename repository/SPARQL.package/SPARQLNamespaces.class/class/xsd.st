@@ -1,0 +1,4 @@
+namespaces
+xsd
+
+	^ 'PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>'
