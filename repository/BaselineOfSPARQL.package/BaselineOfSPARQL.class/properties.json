@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "HernanMoralesDurand 9/3/2018 12:36",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfSPARQL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfSPARQL",
+	"type" : "normal"
+}
