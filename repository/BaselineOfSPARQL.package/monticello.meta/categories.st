@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfSPARQL!
+self packageOrganizer ensurePackage: #BaselineOfSPARQL withTags: #()!
